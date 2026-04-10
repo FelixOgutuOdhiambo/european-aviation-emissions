@@ -9,6 +9,10 @@
 
 ## KPIs
 
-- CO₂: 2.8B  
-- Flights: 135M  
-- CO₂ per Flight: 20.93
+- **Total CO₂ Emissions tonnes:** ~2.8B tonnes *(varies by selected year)*  
+- **Total Flights:** ~135M *(varies by selected year)*  
+- **Average CO₂ per Flight:** ~20.93 tonnes *(dynamic in dashboard)*  
+
+## 📊 Dashboard Preview
+
+![EU Aviation CO₂ Dashboard](dashboards/screenshots/eu_co2_image.png)

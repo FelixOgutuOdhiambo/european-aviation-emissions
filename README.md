@@ -1,34 +1,43 @@
 # ✈️ European Aviation CO₂ Emissions Analytics
 
 ## 📌 Overview
-This project analyzes European aviation emissions using Microsoft Fabric, enabling insights into CO₂ trends.
+End-to-end aviation emissions analytics solution built on **Microsoft Fabric**, analyzing CO₂ trends, flight activity, and efficiency across European markets.
 
 ---
 
 ## 🏗️ Architecture
 
+
 Notebook → Lakehouse → SQL → Semantic Model → Power BI
 
 ---
 
-## 📊 Dashboard Highlights
+## 📊 Dashboard Preview
 
-- Total CO₂: 2.8 Billion tonnes  
-- Total Flights: 135 Million  
-- Avg CO₂ per Flight: 20.93  
+![EU Aviation CO₂ Dashboard](dashboards/screenshots/eu_co2_image.png)
 
 ---
 
-## 🎯 Key Insights
+## 📊 Key Metrics
 
-- Emissions dropped in 2020 (COVID impact)  
+- **CO₂ Emissions:** ~2.8B tonnes  
+- **Flights:** ~135M  
+- **CO₂ per Flight:** ~20.93  
+
+> ⚠️ Values are dynamic and vary based on dashboard filters
+
+---
+
+## 🔍 Key Insights
+
+- Emissions dropped sharply in 2020 (COVID)  
 - Strong recovery post-2021  
-- Seasonal peaks in summer  
+- Peak activity during summer months  
 - Efficiency varies across countries  
 
 ---
 
-## 🛠️ Tools Used
+## ⚙️ Tech Stack
 
 - Microsoft Fabric  
 - PySpark  
@@ -37,5 +46,15 @@ Notebook → Lakehouse → SQL → Semantic Model → Power BI
 
 ---
 
+## 🧠 Value
+
+Supports:
+- Network planning  
+- Fleet optimization  
+- Sustainability tracking  
+
+---
+
 ## 👤 Author
+
 Felix Ogutu Odhiambo
