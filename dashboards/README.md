@@ -15,4 +15,4 @@
 
 ## 📊 Dashboard Preview
 
-![EU Aviation CO₂ Dashboard](dashboards/screenshots/eu_co2_image.png)
+![EU Aviation CO₂ Dashboard](screenshots/eu_co2_image.png)
